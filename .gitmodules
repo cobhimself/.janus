@@ -1,0 +1,12 @@
+[submodule "php.vim-html-enhanced"]
+	path = php.vim-html-enhanced
+	url = https://github.com/cobhimself/php.vim-html-enhanced.git
+[submodule "Smart-Tabs"]
+	path = Smart-Tabs
+	url = https://github.com/vim-scripts/Smart-Tabs.git
+[submodule "php.vim-for-php5.git"]
+	path = php.vim-for-php5
+	url = https://github.com/vim-scripts/php.vim-for-php5.git
+[submodule "phpcomplete.vim"]
+	path = phpcomplete.vim
+	url = https://github.com/shawncplus/phpcomplete.vim.git

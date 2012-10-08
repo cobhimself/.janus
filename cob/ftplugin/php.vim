@@ -1,3 +1,6 @@
+let php_dict=${HOME}/.janus/cob/dictionaries/php/php-complete-dictionary
+autocmd FileType php.html set complete+={php_dict} isk+=.,(
+
 setlocal tabstop=4
 setlocal softtabstop=4
 setlocal shiftwidth=4
