@@ -10,3 +10,12 @@
 [submodule "phpcomplete.vim"]
 	path = phpcomplete.vim
 	url = https://github.com/shawncplus/phpcomplete.vim.git
+[submodule "delimitMate"]
+	path = delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "HTML-AutoCloseTag"]
+	path = HTML-AutoCloseTag
+	url = https://github.com/vim-scripts/HTML-AutoCloseTag.git
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = https://github.com/tpope/vim-ragtag.git
