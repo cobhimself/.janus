@@ -1,4 +1,4 @@
-let php_dict=${HOME}/.janus/cob/dictionaries/php/php-complete-dictionary
+"let php_dict=${HOME}/.janus/cob/dictionaries/php/php-complete-dictionary
 autocmd FileType php.html set complete+={php_dict} isk+=.,(
 
 setlocal tabstop=4
